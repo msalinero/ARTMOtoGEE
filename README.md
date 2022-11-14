@@ -24,6 +24,7 @@ https://doi.org/10.3390/rs14010146
 ![image](https://user-images.githubusercontent.com/9076763/201688079-072433b8-6585-4879-b55a-c2234c5fd2a4.png)
 
 3- Run Main.m. It will generate a folder in the same location as the ARTMO GPR .mat model with several .txt files.
+
 4- Open overall_model_gee.txt. and copy its content. Paste it at the beggining of the GPRPredictedMean script in the GEE repository.
 
 ![image](https://user-images.githubusercontent.com/9076763/201699499-c7fac517-b48d-4e6c-81c0-e0973891b273.png)
