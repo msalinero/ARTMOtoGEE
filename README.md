@@ -1,3 +1,3 @@
 # From ARTMO GPR to GEE.
 
-Short tutorial to import ARTMO GPR models into GEE
+Short tutorial demonstrating how to import ARTMO GPR models into GEE.
