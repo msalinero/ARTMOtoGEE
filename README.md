@@ -28,7 +28,7 @@ https://doi.org/10.3390/rs14010146
 
 ![image](https://user-images.githubusercontent.com/9076763/201699499-c7fac517-b48d-4e6c-81c0-e0973891b273.png)
 
-5- Run GPRPredictedMean! You can modify the date and the Sentinel-2 tile inside the script.
+5- Run GPRPredictedMean! You can modify the date of interest and the area of interest inside the script.
 
 **Important** The correspondence between the variables in the veg_index_GPR function and the model variables should be preserved if the suffix changes.  
 
