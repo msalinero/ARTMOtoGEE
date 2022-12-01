@@ -8,7 +8,7 @@ https://doi.org/10.3390/rs14010146
 
 ![image](https://user-images.githubusercontent.com/9076763/169662944-b7b6f85d-8251-4839-9d97-0b65d3e882fa.png)
 
-Orginally developed by Luca Pipia
+Originally developed by Luca Pipia
 
 https://www.researchgate.net/profile/Luca-Pipia
 
