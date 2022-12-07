@@ -22,7 +22,7 @@ matias.salinero@uv.es
 
 ## Prerequisites
 - ARTMO GPR model (.mat). As [this one](https://github.com/msalinero/ARTMOtoGEE/tree/main/exampleModel).
-- [Matlab files](https://github.com/msalinero/ARTMOtoGEE/tree/main/src) that parse the .mat file into txt.
+- [Matlab files](https://github.com/msalinero/ARTMOtoGEE/tree/main/src) that parse the .mat file into .txt.
 - Add the sample repository to your GEE account using this [link](https://code.earthengine.google.com/?accept_repo=users/msalinero85/ARTMOtoGEE). Refresh so you can see this repo under the Reader section of your GEE workspace.
 
 ## Sample scenario for Sentinel-2.
